@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Sitemap: https://www.heinrichneedshousing.com/sitemap/sitemap-index.xml
+Host: https://www.heinrichneedshousing.com
