@@ -1,0 +1,2 @@
+(self.webpackChunkheinrichneedshousing=self.webpackChunkheinrichneedshousing||[]).push([[883],{1494:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return l}});var u=t(7294),r=t(3751),l=function(){return u.createElement(u.Fragment,null,u.createElement(r.Z,{title:"404: Not found"}),u.createElement("h1",null,"Sooory"),u.createElement("p",null,"this page does not exist :\\"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-9de37cb1f9e76a8f0760.js.map
